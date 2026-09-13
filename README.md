@@ -364,9 +364,4 @@ This project delivers a compact but complete UVM verification environment for a 
 
 ---
 
-## 👤 Author / Portfolio Section
 
-**Verification Engineer Portfolio Project**
-UVM-Based APB Protocol Verification | SystemVerilog · UVM · QuestaSim
-
-*This README was generated from a direct inspection of the project's source files to ensure technical accuracy.*
